@@ -14,7 +14,13 @@ function App() {
           <div> Computer: 0 </div>
         </div>
       </div>
-      
+      <div>
+        <button> Metal </button>
+        <button> Water </button>
+        <button> Wood </button>
+        <button> Fire </button>
+        <button> Earth </button>
+      </div>
     </div>
   );
 }
